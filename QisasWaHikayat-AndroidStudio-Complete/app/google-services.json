@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329604815492",
+    "project_id": "dramio-1080d",
+    "storage_bucket": "dramio-1080d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329604815492:android:1003da21ac61a2640700d1",
+        "android_client_info": {
+          "package_name": "ap4221554.cyq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KZ_CsdItNwJs8Jr4IvwL0HNqOWWuK8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
