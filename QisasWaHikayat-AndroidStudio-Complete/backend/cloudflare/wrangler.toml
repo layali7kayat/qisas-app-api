@@ -1,0 +1,12 @@
+name = "qisas-app-api"
+main = "worker.js"
+compatibility_date = "2026-11-04"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "qisas-app-db"
+database_id = "a8da60f5-135b-4ff4-a600-fe051882ae00"
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "qisas-app-media"
